@@ -10,5 +10,7 @@ Before execute please create a new folder called 'data' and pase this two files:
   <p/>
   <p>
 # train-images-idx3-ubyte.gz:  training set images (9912422 bytes)
+ <p/>
+ <p>
 # train-labels-idx1-ubyte.gz:  training set labels (28881 bytes)
 <p/>
