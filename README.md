@@ -9,6 +9,6 @@ The MNIST database of handwritten digits has a training set of 60,000 examples, 
 Before execute please create a new folder called 'data' and pase this two files: <br/>
 **- train-images-idx3-ubyte.gz:  training set images (9912422 bytes)** <br/>
 **- train-labels-idx1-ubyte.gz:  training set labels (28881 bytes)**
-<p align="center">
-  <img width="460" height="300" src="./digit.png">
+<p align="left">
+  <img width="500" height="400" src="./digit.png">
 </p>
